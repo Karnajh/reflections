@@ -11,11 +11,15 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Keep track of "big side project" without altering the main functioning code.
 
 How do the diagrams help you visualize the branch structure?
+	Easier on the eye and is much more easier to visualize and memorize than code and commit lines
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	Mergin two branches togoether is like applying a patch to a new game, a big amount of changes to an even bigger entitty. 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	Merging manually takes more time but it's a perfect ocasion for a double-checkup of your code and making sure everything is up to snuff.
